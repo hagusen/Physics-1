@@ -1,0 +1,29 @@
+skapa en simulering i 2D
+
+där en boll kan skjutas iväg från olika höjder
+
+och med olika utgångshastigheter.
+
+Utgångshastigheterna skall inte endast vara endast i x- eller y-led, utan
+utgångshastighet i båda led skall finnas.
+
+
+Bollen skall flyga långt i luften men stanna relativt snabbt på
+marken.
+
+Det vill säga luftmotståndet skall vara mycket mindre än rullmotståndet.
+
+
+
+Studs kan hanteras på valfritt sätt.
+
+
+
+Klart: inann ut med kimi
+
+fallande boll med g
+
+begynnelse kraft 
+
+
+
